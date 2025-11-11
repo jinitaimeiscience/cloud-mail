@@ -119,6 +119,13 @@ cloud-mail
 │   ├── package.json			# 项目依赖
 └── └── env.release				# 项目配置
 ```
+
+## 赞助
+
+<a href="https://doc.skymail.ink/support.html" >
+<img width="170px" src="./doc/images/support.png" alt="">
+</a>
+
 ## 许可证
 
 本项目采用 [MIT](LICENSE) 许可证	
